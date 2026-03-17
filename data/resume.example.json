@@ -1,28 +1,26 @@
 {
-  "name": "FABRICIO TRINDADE",
+  "name": "JOÃO LUCAS ANSELMO",
   "title": "Full Stack • Web Development",
-  "email": "example@email.com",
-  "phone_e164": "+10000000000",
-  "phone_display": "(00) 00000-0000",
+  "email": "jlcsanselmo@gmail.com",
+  "phone_display": "(15) 99797-8629",
   "location": "Remote / Brazil",
-  "linkedin_url": "https://www.linkedin.com/in/example-profile",
-  "github_url": "https://github.com/example-user",
-  "website_url": "https://example.com",
+  "linkedin_url": "https://www.linkedin.com/in/jlcsanselmo",
+  "github_url": "https://github.com/jlcsanselmo",
 
   "summary": "Computer Science student with a strong foundation in programming logic and hands-on experience building web applications and APIs. Familiar with cloud fundamentals, system troubleshooting, and structured problem-solving. Seeking an internship focused on cloud infrastructure, monitoring, and automation, with emphasis on clean architecture and ATS-friendly documentation.",
 
   "skills": [
     {
       "group": "Programming",
-      "items": ["JavaScript", "Node.js", "HTML", "CSS", "SQL"]
+      "items": ["Python (Pandas, GeoPandas)", "TypeScript", "JavaScript", "SQL"]
     },
     {
       "group": "Frameworks",
-      "items": ["Next.js", "Express.js", "React"]
+      "items": ["React", "Django REST Framework", "Streamlit"]
     },
     {
       "group": "Databases",
-      "items": ["PostgreSQL", "MongoDB", "ORM concepts"]
+      "items": ["PostgreSQL", "MongoDB", "GeoServer"]
     },
     {
       "group": "Cloud & Infrastructure",
@@ -41,12 +39,12 @@
 
   "projects": [
     {
-      "title": "Full Stack Web Application",
-      "stack": "Node.js, REST APIs, PostgreSQL",
+      "title": "GeoTerraVision (WebGIS Platform)",
+      "stack": "Python, Django REST, Streamlit, PostGIS",
       "bullets": [
-        "Designed and implemented a full stack web application with a clear separation of concerns",
-        "Built RESTful APIs with authentication and basic access control",
-        "Applied structured data modeling and version control best practices"
+        "Desenvolvimento full stack de uma plataforma WebGIS para visualização e gestão de dados territoriais.",
+        "Modelagem de banco de dados geográfico utilizando PostgreSQL e PostGIS.",
+        "Criação de APIs RESTful para consumo de dados espaciais e integração de front-end dinâmico."
       ],
       "links": [
         {
@@ -56,39 +54,38 @@
       ]
     },
     {
-      "title": "Personal Automation Tool",
-      "stack": "JavaScript, Node.js",
+      "title": "Detecção de Cicatrizes de Queimadas (WorCAP 2025)",
+      "stack": "Python, Remote Sensing",
       "bullets": [
-        "Developed a small automation script to streamline repetitive tasks",
-        "Focused on code readability, maintainability, and documentation",
-        "Practiced modular design and error handling"
+        "Participação em maratona de programação voltada à computação aplicada.",
+        "Desenvolvimento de solução para mapeamento e detecção de áreas queimadas utilizando dados de sensoriamento remoto."
       ]
     }
   ],
 
   "experience": [
     {
-      "role": "Technical Support Analyst",
-      "company": "Example Technology Company",
-      "date": "2021 — Present",
+      "role": "Analista de geoprocessamento JR",
+      "company": "Sigma Digital - Geotecnologia no agro",
+      "date": "2025 — Presente",
       "bullets": [
-        "Provided technical support and troubleshooting for systems and network-related issues",
-        "Assumed operational coordination responsibilities on multiple occasions, organizing tasks and prioritizing incidents",
-        "Communicated technical problems clearly to both technical and non-technical stakeholders"
+        "Desenvolvimento de scrits para automação de processos utilizando Python e GeoPandas",
+        "Gestão de infraestrutura de dados geoespaciais utilizando PostgreSQL e GeoServer",
+        "Mapeamento de dados geoespaciais para análise e visualização de informações relevantes para o setor agrícola"
       ]
     }
   ],
 
   "education": [
     {
-      "title": "Bachelor’s Degree in Computer Science",
-      "subtitle": "Example University",
-      "date": "In progress — Expected 2029"
+      "title": "Pós-Graduação Lato Sensu Especialização em geoprocessamento",
+      "subtitle": "Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
+      "date": "2025 — 2026"
     },
     {
-      "title": "Associate Degree in Systems Analysis and Development",
-      "subtitle": "Example University",
-      "date": "Completed — 2023"
+      "title": "Graduação em Tecnologia em Automação Industrial",
+      "subtitle": "Faculdade de Tecnologia de Tatuí (FATEC Tatuí)",
+      "date": "2017 — 2019"
     }
   ],
 
